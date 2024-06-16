@@ -79,5 +79,5 @@ The line graph provided shows the number of stations per line in the Delhi Metro
 
 **Bar Graph of Stations according to Layout Insights**: Most number of metro stations are located on elevated layouts followed by underground station layouts with least number of stations located at the ground level.
 
-**Bar Graph of Stations built per year Insights**:Most number of metro stations were opened in the year 2005 followed by 2019 and 2018. The first metro station was opened in the year 2002. No metro statio were opened in the years 2007, 2012, 2016.
+**Bar Graph of Stations built per year Insights**: Most number of metro stations were opened in the year 2005 followed by 2019 and 2018. The first metro station was opened in the year 2002. No metro statio were opened in the years 2007, 2012, 2016.
 
