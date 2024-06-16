@@ -77,6 +77,7 @@ The line graph provided shows the number of stations per line in the Delhi Metro
    - **High Station Density Areas**: Areas served by the Blue Line, Pink Line, and Yellow Line likely have higher accessibility and connectivity due to the higher number of stations.
    - **Targeted Expansion**: Lines with fewer stations, such as the Gray Line and Green Line Branch, may be targets for future expansion to increase connectivity and reduce travel times for commuters in those areas.
 
-**Most number of metro stations are located on elevated layouts followed by underground station layouts with least number of stations located at the ground level.**
-**Most number of metro stations were opened in the year 2005 followed by 2019 and 2018. The first metro station was opened in the year 2002. No metro statio were opened in the years 2007, 2012, 2016.**
+**Bar Graph of Stations according to Layout Insights**: Most number of metro stations are located on elevated layouts followed by underground station layouts with least number of stations located at the ground level.
+
+**Bar Graph of Stations built per year Insights**:Most number of metro stations were opened in the year 2005 followed by 2019 and 2018. The first metro station was opened in the year 2002. No metro statio were opened in the years 2007, 2012, 2016.
 
